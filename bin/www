@@ -5,7 +5,7 @@
  */
 
 var app = require('../app');
-var debug = require('debug')('lp01-team-e-server:server');
+var debug = require('debug')('testserver-lp:server');
 var http = require('http');
 var models = require('../models');
 
